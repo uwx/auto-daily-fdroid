@@ -1,0 +1,271 @@
+{
+  "repo": {
+    "timestamp": 1719889913000
+  },
+  "packages": {
+    "app.mihon": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia",
+          "Animanga"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/mihonapp/mihon",
+        "summary": {
+          "en-US": "Free and open source manga reader for Android"
+        },
+        "description": {
+          "en-US": "Full-featured reader Discover and read manga, webtoons, comics, and more – easier than ever on your Android device. Mihon is a continuation of Tachiyomi.\nFeatures: * Local reading of content. * A configurable reader with multiple viewers, reading directions and other settings. * Tracker support: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi support. * Categories to organize your library. * Light and dark themes. * Schedule updating your library for new chapters. * Create backups locally to read offline or to your desired cloud service. * Plus much more..."
+        }
+      }
+    },
+    "com.arn.scrobble": {
+      "metadata": {
+        "summary": {
+          "en-US": "Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file, on Andr..."
+        }
+      },
+      "versions": {
+        "9d731e1b0b8a1555ef73d9f6d0831159c4496ce93c6289acc4729072bb10a1e9": {
+          "releaseChannels": null
+        },
+        "6352618fffcf5527df5196a071209213391552f763b8b284f66fb4c5266aa0e6": {
+          "releaseChannels": null
+        },
+        "3cef26b5914a5237bc867b19445863557f034a902f0db3fa232987441a59f2c1": {
+          "releaseChannels": null
+        },
+        "d436bfe7c627fc5551d00189109f4217d2f3945cb227b31d45b45442fe9219c4": {
+          "releaseChannels": null
+        },
+        "39fc6fcc34cbe2992010aaffde8c58fda5b8e25778dfa5c98e23e031bb26ceb5": {
+          "releaseChannels": null
+        },
+        "c6b19286055478a2701cfff9d08e49ee6778828040d79d7335fcd6fb9443ba3f": {
+          "releaseChannels": null
+        },
+        "1bd502c7411c0f5d9ff161986cb8b7b7db241a158e2e691fdc1a2d21f4a155e3": {
+          "releaseChannels": null
+        },
+        "59779885860dd81168ab96d9cd920b14f94d11eb44a6f46278d0ee61ae0f5631": {
+          "releaseChannels": null
+        },
+        "5c78541c81e44728f98b1dd4448726006a04538144f5215c546b15dbce25c6eb": {
+          "releaseChannels": null
+        },
+        "cae60ff5781a3b7ff3a27d4ae1e89994229314285fccfd2eeff84f6dafff8acb": {
+          "releaseChannels": null
+        },
+        "80aec78f60b5ea421b7a4f8e6b312acc2b42574632324efebb8096e3227dc828": {
+          "releaseChannels": null
+        },
+        "625654fdef5dc4d888b1f6d8723e877c4bd5e7498f56ffd95366d629adb3bb1c": {
+          "releaseChannels": null
+        },
+        "e4bc423cd9a0f4ebac709c26e84b89d2db49ff6da101e30fa762bd4819367d9a": {
+          "releaseChannels": null
+        },
+        "52bc89b5f302106b0bb8348c61d9446b94495c5351b2a4754b8c1e2e030f4171": {
+          "releaseChannels": null
+        },
+        "b46f3ab0174bb4e1a061e89e758feed4ef975fb6014c0a563597e36f819541c2": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "com.rattlehead15.tachiyomiocr": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia",
+          "Animanga"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Rattlehead15/tachiyomiOCR",
+        "name": {
+          "en-US": "tachiyomiOCR"
+        },
+        "summary": {
+          "en-US": "Tachiyomi fork which adds OCR and dictionary lookup capabilities for the purpose of language learni..."
+        },
+        "description": {
+          "en-US": "This is a fork of the popular manga reader Tachiyomi, which adds OCR and Dictionary lookup features to the reader to make the process of learning Japanese with manga easier.\n## Added features\n* Popup dictionary to quickly look up unknown words. Supports deinflection of verbs and adjectives. * OCR (Optical character recognition) to quickly search words without having to write them.\n## Usage Tachiyomi OCR adds two new buttons in the reader menu, the dictionary button and the OCR button. - The dictionary button is straightforward, it opens up the dictionary and you can look up any word you want. - When the OCR button is pressed, you will be prompted to select the region of the screen which contains the word you want to look for. Once the region is selected, long press the OCR rectangle to scan the word and look it up in the dictionary - Dictionary entries have an Anki button in the upper right corner. If you set up your card export correctly in the settings, this button can be pressed to export the word definitions to ankiDroid"
+        }
+      }
+    },
+    "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c": {
+      "metadata": {
+        "added": 1719889913000,
+        "lastUpdated": 1719889913000
+      },
+      "versions": {
+        "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c": {
+          "added": 1719889913000
+        }
+      }
+    },
+    "eu.kanade.tachiyomi.az": {
+      "versions": {
+        "b5f5a90f4845c3795dae8a759f922123318f4d008abf657d7022ce9b9cc738da": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "eu.kanade.tachiyomi.sy": {
+      "versions": {
+        "c11ad35891d16f2a40c919c581cfb262f87bcd59c1975b813e3ef69a56c78ab4": {
+          "releaseChannels": null
+        },
+        "f0c5b99465958f26cf5712cc0cdd811bfc7c5a17bc46d2a99990f6121e9aa280": {
+          "releaseChannels": null
+        },
+        "b03ecbb7c990c8a317742434b7e2c518001dcaf7d2007f267d9deb3fb1f38539": {
+          "releaseChannels": null
+        },
+        "5008d03292919634769ce3a9569df1446bd11d24361c57c61037af77c1540836": {
+          "releaseChannels": null
+        },
+        "e59b31b32f0047635e9b04c84af044bdd68952e8d83cd571807d38003f76323a": {
+          "releaseChannels": null
+        },
+        "edfe13315ea82bf7d7ccf64148387d4df12b9afe0e07c0a43d69e936a0d46336": {
+          "releaseChannels": null
+        },
+        "0b63848c1bce1bcfa1c2bfdc6c151ab3e1de9a3027afe7e581a44a4936f733dd": {
+          "releaseChannels": null
+        },
+        "cddd74257b6362c2b51f522a0de3bce9490f803ae2a9d41062863f86d608084f": {
+          "releaseChannels": null
+        },
+        "e99000aecc94f52197638128336bec13cdd2bb40315d45017d0a3d2ec5a8a830": {
+          "releaseChannels": null
+        },
+        "13e4e32257febcfbdf568f03d78c918dca1984cc26c8f83e7b9169d37b943617": {
+          "releaseChannels": null
+        },
+        "3c18118a698df5192e98f59205c90664a60c3f7aad67ccebab5003a69d9cebeb": {
+          "releaseChannels": null
+        },
+        "6b5aaedff48a2920de76563d582b924dbd32278d3d44a465e67887d6f227af30": {
+          "releaseChannels": null
+        },
+        "2fb88c86dc17acf8951a5e2bf3c97939d0ef5992d588a6144dcafcc81dfc72bf": {
+          "releaseChannels": null
+        },
+        "2ca12a60d744cfc2c28d49f4759938d337c3d7f527de0a424ceb72485b2d517c": {
+          "releaseChannels": null
+        },
+        "dc9c2d457d902ab00f57ea9fe72337224656082ede265cc66d8e1a464dd2fa3f": {
+          "releaseChannels": null
+        },
+        "a36602422b9b971b40ed2671d0c17b2d56fcb6dcbef2ad70cb766f5231060e53": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "eu.kanade.tachiyomi.sy.crepe": {
+      "metadata": {
+        "description": {
+          "en-US": "Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not."
+        }
+      }
+    },
+    "org.nekomanga.neko": {
+      "metadata": {
+        "description": {
+          "en-US": "This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This contains features specific to Mangadex that those versions cannot offer. It also features almost every feature that J2K has except for other sources,local sources, and editting manga.\nNote: This fork is for Android 7+\nFeatures include: - [MangaDex](https://mangadex.org/) manga reader for Android 7+ - Offline reading Supports native login to MangaDex - MDList support - Tracker support: <a target=\"_blank\" href=\"https://myanimelist.net/\">MyAnimeList</a>, <a target=\"_blank\" href=\"https://anilist.co/\">AniList</a>, <a target=\"_blank\" href=\"https://kitsu.io/\">\n  Kitsu</a>, <a target=\"_blank\" href=\"https://mangaupdates.com\">MangaUpdates</a>\n- Custom computer generated similar manga recommendations, as well as user recommendations from MyAnimeList, MangaUpdates, AniList - Syncing manga, and read statuses to and from MangaDex and Neko - Ability to merge missing chapters from MangaDex with other sources including <a target=\"_blank\" href=\"https://toonily.com/\">Toonily</a>, <a target=\"_blank\" href=\"https://www.manga4life.com/\">\n  MangaLife</a>, and <a target=\"_blank\" href=\"https://komga.org/\">Komga</a>\n- Plus much more..."
+        }
+      },
+      "versions": {
+        "fd148b3f15b490aff16d3781aea3a308409ccf71b655427d549e7d5031dae8b6": {
+          "releaseChannels": null
+        },
+        "aa667c36983a2bf10545e6fff92fbc5e73d8239c17f48f866a0efc855d02ba22": {
+          "releaseChannels": null
+        },
+        "e31cf6c2242aba84d22a4d1e34307cf26a8166d3537302dcb38fa9f012c3705a": {
+          "releaseChannels": null
+        },
+        "56b96994983bec23977ab9877c449d6e5ea324316c7e3a17f01af5cbac56ece3": {
+          "releaseChannels": null
+        },
+        "ccea7bc97d4ad49801078a88d2bdbe4a8f5b84d9cd8549860148d08ebc110723": {
+          "releaseChannels": null
+        },
+        "15c1f0ca983f4c202ffee6cbb716cad7e3dad487852f0c7477b30ae551e751de": {
+          "releaseChannels": null
+        },
+        "0deead6716a0837379b6d86fa205c44c2944b7eb13df0034efd41413eb1ed34a": {
+          "releaseChannels": null
+        },
+        "482b1dffa0a6d6a3bf1619fff2b7c0a18500ab599f9c57535236c360440fe5de": {
+          "releaseChannels": null
+        },
+        "ede5d9ab73f45c946a6e3887582744a44bcb281789d92fba129586eda2ea8b6b": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "xyz.Quickdev.Animiru.mi": {
+      "versions": {
+        "d64d0300bb3d969ac44127fbf80ef4485f4c5a032bde865ca8b059fe66fb106c": {
+          "releaseChannels": null
+        },
+        "0bfe50effd7a6dd71509a556cf0fd34887b5021e5a0434a94ac7fe7fc0508e0b": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "xyz.jmir.tachiyomi.mi": {
+      "versions": {
+        "abb3dda198e6810301d3bd480bb8345599028cbd11c3b80c7b736677b4132077": {
+          "releaseChannels": null
+        },
+        "47071e501e41943219cb92afc6a868c9d1a4c059e2e1356c93d6a8e48db26b13": {
+          "releaseChannels": null
+        },
+        "d311499820187e8741ef17fa9cc576228fde748747ea1b3cb75960228e631da9": {
+          "releaseChannels": null
+        },
+        "f93fedd4aa1230e4bd883e8cb32322384b11afa12a7471b48723464222ba8b55": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "xyz.luft.tachiyomi.mi": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia",
+          "Animanga"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/LuftVerbot/Kuukiyomi",
+        "summary": {
+          "en-US": "Fork of Aniyomi with extra features"
+        },
+        "description": {
+          "en-US": "Kuukiyomi is an fork of Aniyomi which is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. This version of Aniyomi aims to implement as many features of other forks as possible. This Includes TachiyomiSY but also other forks.\nFeatures include: * Kuukiyomi:\n  * Torrent support(Needs right extensions) (@Diegopyl1209)\n  * resmush.it(Data Saver Provider)\n  * Group by tags in library\n  * Discord Rich Presence for Manga\n* Aniyomi:\n  * Watching videos\n  * View images\n  * Local reading/watching of downloaded content\n  * A configurable reader with multiple viewers, reading directions and other settings.\n  * A configurable player built on mpv-android with multiple options and settings\n  * Tracker support: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/), [MangaUpdates](https://mangaupdates.com), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/)\n  * Categories to organize your library\n  * Light and dark themes\n  * Create backups locally to read/watch offline or to your desired cloud service\n* Other fork features:\n  * TachiyomiSY:\n    * Data Saver\n    * Edit Info\n    * Library Grouping\n    * Double Pages\n  * Animiru:\n    * Discord Rich Presence\n  * TachiyomiJ2K:\n    * Page Preload"
+        }
+      }
+    },
+    "xyz.luft.tachiyomi.mi.debug": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia",
+          "Animanga"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/LuftVerbot/Kuukiyomi",
+        "summary": {
+          "en-US": "Fork of Aniyomi with extra features"
+        },
+        "description": {
+          "en-US": "Kuukiyomi is an fork of Aniyomi which is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. This version of Aniyomi aims to implement as many features of other forks as possible. This Includes TachiyomiSY but also other forks.\nFeatures include: * Kuukiyomi:\n  * Torrent support(Needs right extensions) (@Diegopyl1209)\n  * resmush.it(Data Saver Provider)\n  * Group by tags in library\n  * Discord Rich Presence for Manga\n* Aniyomi:\n  * Watching videos\n  * View images\n  * Local reading/watching of downloaded content\n  * A configurable reader with multiple viewers, reading directions and other settings.\n  * A configurable player built on mpv-android with multiple options and settings\n  * Tracker support: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/), [MangaUpdates](https://mangaupdates.com), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/)\n  * Categories to organize your library\n  * Light and dark themes\n  * Create backups locally to read/watch offline or to your desired cloud service\n* Other fork features:\n  * TachiyomiSY:\n    * Data Saver\n    * Edit Info\n    * Library Grouping\n    * Double Pages\n  * Animiru:\n    * Discord Rich Presence\n  * TachiyomiJ2K:\n    * Page Preload"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "repo": {
+    "timestamp": 1719889913000
+  },
+  "packages": {
+    "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c": {
+      "metadata": {
+        "added": 1719889913000,
+        "lastUpdated": 1719889913000
+      },
+      "versions": {
+        "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c": {
+          "added": 1719889913000
+        }
+      }
+    }
+  }
+}
