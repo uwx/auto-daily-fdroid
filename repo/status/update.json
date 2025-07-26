@@ -1,0 +1,164 @@
+{
+  "antiFeatures": {
+    "Ads": {
+      "apps": [
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "NoSourceSince": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "NonFreeAdd": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "NonFreeAssets": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "NonFreeDep": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "NonFreeNet": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix",
+        "io.github.xarantolus.rockit"
+      ]
+    },
+    "Tracking": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    },
+    "UpstreamNonFree": {
+      "apps": [
+        "com.aspiro.tidal",
+        "com.spotify.lite",
+        "com.spotify.music",
+        "com.spotify.musix"
+      ]
+    }
+  },
+  "apksigner": null,
+  "archivePolicy0": [],
+  "commandLine": [
+    "C:\\hostedtoolcache\\windows\\Python\\3.9.13\\x64\\Scripts\\fdroid update",
+    "--pretty",
+    "--create-metadata",
+    "--delete-unknown"
+  ],
+  "disabled": [],
+  "endTimestamp": 1753502860212,
+  "failedBuilds": {},
+  "jarsigner": "C:\\hostedtoolcache\\windows\\graalvm-jdk-21_windows-x64_bin\\21.0.0\\x64\\graalvm-jdk-21.0.8+12.1\\bin\\jarsigner.EXE",
+  "keytool": "C:\\hostedtoolcache\\windows\\graalvm-jdk-21_windows-x64_bin\\21.0.0\\x64\\graalvm-jdk-21.0.8+12.1\\bin\\keytool.EXE",
+  "needsUpdate": [
+    "app.mihon",
+    "com.aspiro.tidal",
+    "com.blackunicorn.buwa",
+    "com.fastaccess.github",
+    "com.jiaqifeng.hacki",
+    "com.rattlehead15.tachiyomiocr",
+    "com.spotify.lite",
+    "com.spotify.music",
+    "com.spotify.musix",
+    "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c",
+    "eu.kanade.tachiyomi.j2k",
+    "xyz.luft.tachiyomi.mi.debug",
+    "xyz.luft.tachiyomi.mi"
+  ],
+  "noPackages": [
+    "app.mihon",
+    "com.arn.scrobble",
+    "com.aspiro.tidal",
+    "com.blackunicorn.buwa",
+    "com.example.anim_search",
+    "com.example.music_player_fluttter",
+    "com.fastaccess.github.revival",
+    "com.fastaccess.github",
+    "com.github.doomsdayrs.apps.shosetsu.debug",
+    "com.jiaqifeng.hacki",
+    "com.onedreamers.musicplayer",
+    "com.rattlehead15.tachiyomiocr",
+    "com.spotify.lite",
+    "com.spotify.music",
+    "com.spotify.musix",
+    "com.suwayomi.tachidesk_sorayomi",
+    "com.varuns2002.sudoku",
+    "com.yourcompany.musicplayer",
+    "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c",
+    "eu.kanade.tachiyomi.az",
+    "eu.kanade.tachiyomi.j2k",
+    "eu.kanade.tachiyomi.sy.crepe",
+    "eu.kanade.tachiyomi.sy",
+    "io.github.xarantolus.notality",
+    "io.github.xarantolus.rockit",
+    "org.nekomanga.neko",
+    "tachiyomi.mangadex",
+    "xyz.jmir.tachiyomi.mi",
+    "xyz.luft.tachiyomi.mi.debug",
+    "xyz.luft.tachiyomi.mi",
+    "xyz.Quickdev.Animiru.mi"
+  ],
+  "noUpdateCheck": [
+    "app.mihon",
+    "com.arn.scrobble",
+    "com.aspiro.tidal",
+    "com.blackunicorn.buwa",
+    "com.example.anim_search",
+    "com.example.music_player_fluttter",
+    "com.fastaccess.github.revival",
+    "com.fastaccess.github",
+    "com.github.doomsdayrs.apps.shosetsu.debug",
+    "com.jiaqifeng.hacki",
+    "com.onedreamers.musicplayer",
+    "com.rattlehead15.tachiyomiocr",
+    "com.spotify.lite",
+    "com.spotify.music",
+    "com.spotify.musix",
+    "com.suwayomi.tachidesk_sorayomi",
+    "com.varuns2002.sudoku",
+    "com.yourcompany.musicplayer",
+    "e29c4dc4dc6425d5a55a307d46cd1f5b04ca3a99a26d299558876989505cf76c",
+    "eu.kanade.tachiyomi.az",
+    "eu.kanade.tachiyomi.j2k",
+    "eu.kanade.tachiyomi.sy.crepe",
+    "eu.kanade.tachiyomi.sy",
+    "io.github.xarantolus.notality",
+    "io.github.xarantolus.rockit",
+    "org.nekomanga.neko",
+    "tachiyomi.mangadex",
+    "xyz.jmir.tachiyomi.mi",
+    "xyz.luft.tachiyomi.mi.debug",
+    "xyz.luft.tachiyomi.mi",
+    "xyz.Quickdev.Animiru.mi"
+  ],
+  "startTimestamp": 1753502089000,
+  "subcommand": "update"
+}
