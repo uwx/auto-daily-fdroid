@@ -1,0 +1,22 @@
+config.py
+keystore.jks
+out.txt
+**.tmp
+/.vscode
+#keystore.p12
+#config.yml
+/fdroid/repo
+/fdroid/tmp
+/fdroid/repo/status
+/fdroid/metadata/**/phoneScreenshots
+
+metascoop/metascoop
+
+# remove xarantolus stuff
+notability_*.apk
+rockit_*.apk
+io.github.xarantolus.*
+#apps.yaml # only used for git-filter-repo, to reduce noise in history
+
+node_modules
+/setvars.cmd
